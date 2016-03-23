@@ -1,0 +1,2 @@
+# contactsGrails
+basic grails example
